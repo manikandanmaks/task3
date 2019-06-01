@@ -1,0 +1,6 @@
+D:\BillingSystem\BillingSystem\BillingSystem\bin\Debug\BillingSystem.exe.config
+D:\BillingSystem\BillingSystem\BillingSystem\bin\Debug\BillingSystem.exe
+D:\BillingSystem\BillingSystem\BillingSystem\bin\Debug\BillingSystem.pdb
+D:\BillingSystem\BillingSystem\BillingSystem\obj\Debug\BillingSystem.exe
+D:\BillingSystem\BillingSystem\BillingSystem\obj\Debug\BillingSystem.pdb
+D:\BillingSystem\BillingSystem\BillingSystem\obj\Debug\BillingSystem.csprojResolveAssemblyReference.cache
